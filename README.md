@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aslan 👋
 
-<!--
-**aslansaputra/aslansaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build education platforms, CMS, and business web systems.
 
-Here are some ideas to get you started:
+## Main Focus
+- Education technology
+- Simulation systems (IELTS, tests, etc.)
+- Custom CMS for institutions
+- Business automation tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- PHP (CodeIgniter)
+- JavaScript
+- MySQL
+- Bootstrap
+
+## Current Projects
+- IELTS Simulation On-Demand Platform
+- Education CMS (Gumugu)
