@@ -11,6 +11,7 @@ I build education platforms, CMS, and business web systems.
 ## Tech Stack
 - PHP (CodeIgniter)
 - JavaScript
+- Python
 - MySQL
 - Bootstrap
 
