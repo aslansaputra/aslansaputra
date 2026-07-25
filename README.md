@@ -2,6 +2,5 @@
 
 I build education platforms, CMS, and business web systems — from exam simulation platforms like IELTS test engines to custom content management systems for institutions and automation tools for businesses. My work sits at the intersection of EdTech and practical software engineering, turning messy manual processes into structured digital systems.
 
-I'm a Chevening Scholar and hold an MSc in Business Innovation from Birkbeck, University of London, where I graduated with Merit. That academic grounding in innovation and business strategy shapes how I approach product decisions — not just writing code, but building systems that solve real institutional problems at scale.
+I'm a Chevening Scholar and hold an MSc in Business Innovation from Birkbeck, University of London, where I graduated with Merit. That academic grounding in innovation and business strategy shapes how I approach product decisions - not just writing code, but building systems that solve real institutional problems at scale.
 
-My go-to stack is PHP (CodeIgniter) for backend-heavy applications, paired with JavaScript for interactivity and Python when data processing or automation is involved, all running on MySQL. Right now I'm actively building an IELTS Simulation On-Demand Platform and Gumugu, an education-focused CMS designed for multi-institution use.
